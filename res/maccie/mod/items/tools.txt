@@ -1,0 +1,16 @@
+01.ranik_helmet,syhot_helmet,eldim_helmet,atard_helmet,,,,,,,,,,,,;
+02.ranik_chestplate,syhot_chestplate,eldim_chestplate,atard_chestplate;
+03.ranik_leggings,syhot_leggings,eldim_leggings,atard_leggings;
+04.ranik_boots,syhot_boots,eldim_boots,atard_boots;
+05.ranik_sword,syhot_sword,eldim_sword,atard_sword;
+06.ranik_shovel,syhot_shovel,eldim_shovel,atard_shovel;
+07.ranik_pickaxe,syhot_pickaxe,eldim_pickaxe,atard_pickaxe;
+08.ranik_axe,syhot_axe,eldim_axe,atard_axe;
+09.ranik_hoe,syhot_hoe,eldim_hoe,atard_hoe;
+10.ranik_ingot,syhot_ingot,eldim_ingot,atard_ingot;
+11.;
+12.;
+13.;
+14.;
+15.;
+16.;
